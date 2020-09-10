@@ -9,8 +9,8 @@ const { request } = require('express');
 
 //adding async reuest
 const asyncRequest = require('async-request');
-//const countryListUrl= 'https://restcountries.eu/rest/v2/all';
-const countryListUrl=' https://api.github.com/users';
+const countryListUrl= 'https://restcountries.eu/rest/v2/all';
+//const countryListUrl=' https://api.github.com/users';
 
 //syntax : route, callback function
 
